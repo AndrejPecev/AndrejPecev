@@ -4,7 +4,7 @@
 
 <h3 align="center">
   I am Andrej, a developer who loves building useful and creative software.<br/>
-  Check out my projects <a href="https://andrejpecev.com">here</a> .
+  Check out my projects <a href="https://andrejpecev.com" target="_blank" rel="noopener noreferrer">here</a> .
 </h3>
 
 <br clear="both" />
@@ -36,10 +36,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andrej-pecev-a26141212/" target="_blank">
+  <a href="https://www.linkedin.com/in/andrej-pecev-a26141212/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://gitlab.com/andrejpecev" target="_blank">
+  <a href="https://gitlab.com/andrejpecev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
 </div>
